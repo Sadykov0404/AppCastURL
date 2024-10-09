@@ -1,6 +1,6 @@
 {
   "app_name": "STATE ELOGS",
-  "version_android": "1.0.0",
+  "version_android": "1.0.1",
   "version_ios": "1.0.0",
   "force_update_android": true,
   "force_update_ios": false
